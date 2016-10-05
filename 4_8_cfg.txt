@@ -1,0 +1,6 @@
+! IOS commands for exercise 4-8.py
+logging buffered 7777
+no logging console
+end
+sh run | inc logg
+
